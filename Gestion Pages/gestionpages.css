@@ -1,0 +1,120 @@
+.category-picture {
+    width: 15px;
+}
+ul {
+    list-style-type: none;
+    padding: 0px;
+   
+}
+
+a { 
+    display: flex;
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    
+}
+ .liste img {
+     width: 20px;
+ }
+ 
+
+.liste:hover{
+    background-color: grey;
+   
+    
+    
+    
+}
+.universal .fa-ellipsis-h{ margin-left: 26px;
+
+}
+.voir span:hover{
+    text-decoration: underline;
+    
+}
+.voir span{
+    font-size: 10px;
+    color: blue;
+    margin-left: 5px;
+    
+    
+
+}
+#fil {
+    background-color: lightgray;
+}
+.menug{
+    font-family: sans-serif;
+}
+.category-picture {
+    margin-right: 5px;
+}
+.in{
+    background-color: lightgray;
+    align-items: center;
+    font-weight: bold;
+}
+.in:hover{
+    background: none;
+}
+.voir2:hover { 
+    background: none;
+
+}
+.voir{
+    padding: 2px;
+}
+
+.pprofil {
+    
+    width: 100%;
+    
+    
+    
+    
+}
+.profil{
+    padding: 5px;
+    padding-bottom: 8px;
+}
+
+.menug {
+    margin-left: 0px;
+    background-color: white;
+    width: 170px;
+}
+.ecart {margin-left: 2px;}
+
+h4{
+    margin-bottom: 0px;
+    color: grey;
+    
+}
+
+.profil a {
+    align-items: center;
+}
+.groupes{
+    margin-top: 2px;
+}
+ i{
+     color: grey;
+ }
+
+ .in a{
+    align-items: inherit;
+ }
+ 
+ li{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.lapinou{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    overflow: hidden;
+}
+
